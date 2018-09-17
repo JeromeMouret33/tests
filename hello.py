@@ -1,9 +1,9 @@
-print("first insert")
-print("second insert")
-print("third insert")
-print(1)
-print(2)
+print("first insertion de ou f")
+print("sd insert")
+print("td insert")
 print(3)
-print(4)
+print(8)
+print(9)
+print(7)
 test:wq
 

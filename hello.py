@@ -1,7 +1,9 @@
 print("first insert")
 print("second insert")
-print("third insert")
+print("troisieeme insert")
+je suis perdu dans les conflits
 print(1)
 print(2)
 efQEF
-sdvfQFVv
+
+1+1 = 3

@@ -1,8 +1,9 @@
-print("first insertion de ou f")
-print("sd insert")
-print("td insert")
-print(3)
-fdqz dsdf
-banch feature
-prisdf<nt(7)
+print("first insert")
+print("second insert")
+print("troisieeme insert")
+je suis perdu dans les conflits
+print(1)
+print(2)
+efQEF
 
+1+1 = 3

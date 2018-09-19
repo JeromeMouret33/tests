@@ -1,9 +1,8 @@
 print("first insert")
 print("second insert")
 print("troisieeme insert")
-je suis perdu dans les conflits
-print(1)
-print(2)
-efQEF
-
-1+1 = 3
+je suis perdu ... il ne faut pas dire ça regarde :p 
+Tu connais SVN ? 
+Moi j'utilise git et toi ? 
+efQE
+1 + 1 + 1 = 3

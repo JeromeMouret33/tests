@@ -1,7 +1,8 @@
 print("first insert")
 print("second insert")
-print("troisieme insert")
-je suis perdu dans les conflits il y en a beaucoup trop 
-print(6)
-Vive les gestionnaires de source !
-1+1 = 3
+print("troisieeme insert")
+je suis perdu ... il ne faut pas dire ça regarde :p 
+Tu connais SVN ? 
+Moi j'utilise git et toi ? 
+efQE
+1 + 1 + 1 = 3

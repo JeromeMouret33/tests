@@ -1,9 +1,7 @@
 print("first insert")
 print("second insert")
-print("troisieeme insert")
-je suis perdu dans les conflits
-print(1)
-print(2)
-efQEF
-
+print("troisieme insert")
+je suis perdu dans les conflits il y en a beaucoup trop 
+print(6)
+Vive les gestionnaires de source !
 1+1 = 3

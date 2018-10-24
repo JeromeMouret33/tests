@@ -1,15 +1,12 @@
-from setuptools.command.install import install as _install
-from setuptools import setup, find_packages
-import pip
-
-class install(_install):
-  def run(self):
-    _install.do_egg_install(self)
-
-    # just go ahead and do it
-    pip.main(['install', 'https://github.com/JeromeMouret33/tests.git@pkg/base_page'])
+from setuptools import setup
+import os
+import sys
 
 
+
+run_cmd = 'pip install git+https://github.com/JeromeMouret33/tests.git@pkg/base_page'
+
+os.system(run_cmd)
 
 setup(
       name='workday',
@@ -19,6 +16,5 @@ setup(
       author_email='jerome.mouret@sanofi.com',
       license='SANOFI',
       packages=['workday'],
-      cmdclass={'install': install},
       zip_safe=False
       )

@@ -1,6 +1,6 @@
 """ Workday automation main module """
-from locators import Locators
-from Page import *
+from workday.locators import Locators
+from Page import Page
 
 
 

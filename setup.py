@@ -7,5 +7,5 @@ setup(name='workday_page',
       author_email='jerome.mouret@sanofi.com',
       license='SANOFI',
       packages=['workday_page'],
-      dependency_links=['https://github.com/'],
+      dependency_links=['https://github.com/JeromeMouret33/tests.git@pkg/base_page'],
       zip_safe=False)

@@ -3,7 +3,7 @@ from locators import Locators
 try:
     from base_page import Page
 except:
-    print("need base_page package to continue : pip install git+https://github.com/.....")
+    print("need base_page package to continue : pip install git+https://github.com/JeromeMouret33/tests.git@pkg/base_page")
 
 
 WORKDAY_PRODUCTION_BASE_URL = 'https://wd3.myworkday.com/sanofi/d/inst/15$5312/2500$'

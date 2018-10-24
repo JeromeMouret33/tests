@@ -1,1 +1,1 @@
-from base_page.base_page import *
+from Page.base_page import *

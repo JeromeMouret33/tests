@@ -7,8 +7,4 @@ setup(name='base_page',
       author_email='jerome.mouret@sanofi.com',
       license='SANOFI',
       packages=['base_page'],
-      install_requires=[
-          'selenium',
-          'time'
-      ],
       zip_safe=False)

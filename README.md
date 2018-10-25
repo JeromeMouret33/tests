@@ -1,2 +1,2 @@
 # tests
-git hub commands test 
+git hub ORM SQL Alchemy test 

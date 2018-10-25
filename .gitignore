@@ -1,0 +1,8 @@
+*.pyc
+*.db
+*.db-journal
+*.xlsx
+*log
+env/
+.vscode/
+.__pycache__/
